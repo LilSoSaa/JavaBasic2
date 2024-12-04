@@ -20,5 +20,7 @@ public class Main {
         System.out.println("Modello: " + auto1.getModello());
         System.out.println("Cilindrata: " + auto1.getCilindrata());
         System.out.println("Targa: " + auto1.getTarga());
+
+
     }
 }
